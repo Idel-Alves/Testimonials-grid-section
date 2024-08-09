@@ -16,6 +16,7 @@ O projeto é uma seção grid de depoimentos e é minha resolução para o desaf
 ### Aprimorar o conhecimento em:
 <ul>
   <li>Display Grid</li>
+  <li>Position CSS</li>
   <li>Layout Responsivo</li>
   <li>Acessibilidade nas cores e na fonte</li>
   <li>Variável CSS (Nesse projeto usei nas Cores)</li>
